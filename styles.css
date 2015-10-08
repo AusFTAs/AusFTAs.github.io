@@ -150,6 +150,7 @@ h3 {
 }
 
 .footer-links li a {
+  padding: 0 10px;
   color: white;
   text-decoration: none;
 }
