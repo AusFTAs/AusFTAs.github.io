@@ -159,3 +159,7 @@ h3 {
 .footer-links li a:focus {
   text-decoration: underline;
 }
+
+.pre {
+  font-family: monospace;
+}
