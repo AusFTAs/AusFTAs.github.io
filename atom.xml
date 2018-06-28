@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Free Trade Agreement Portal]]></title>
+  <subtitle><![CDATA[Developer Resources]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="https://ausftas.github.io/"/>
+  <updated>2018-06-26T23:43:29.897Z</updated>
+  <id>https://ausftas.github.io/</id>
+  
+  <author>
+    <name><![CDATA[Department of Foreign Affairs and Trade]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[More services sectors available]]></title>
+    <link href="https://ausftas.github.io/2018/06/28/0005_v9/"/>
+    <id>https://ausftas.github.io/2018/06/28/0005_v9/</id>
+    <published>2018-06-28T09:35:00.000Z</published>
+    <updated>2018-06-26T23:43:29.897Z</updated>
+    <content type="html"><![CDATA[<p>The Portal now includes the following sectors:</p>
+<ul>
+<li>Education</li>
+<li>Finance</li>
+<li>Medical and Dental</li>
+<li>Hospital</li>
+<li>Tourism</li>
+<li>Computing.</li>
+</ul>
+<p>The API has been updated accordingly. See <a href="http://ausftas.github.io/apidocs/">http://ausftas.github.io/apidocs/</a>.
+We continue to encourage feedback and questions on the API service here.
+More sectors will be added to the Portal soon.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>The Portal now includes the following sectors:</p>
+<ul>
+<li>Education</li>
+<li>Finance</li>
+<li>Medical and Dental</li>
+<li>Hospital</li>]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Services information now available]]></title>
+    <link href="https://ausftas.github.io/2018/04/22/0004_v8/"/>
+    <id>https://ausftas.github.io/2018/04/22/0004_v8/</id>
+    <published>2018-04-22T09:35:00.000Z</published>
+    <updated>2018-06-25T23:15:48.535Z</updated>
+    <content type="html"><![CDATA[<p>FTAs can improve market access across all areas of trade including services.
+The Portal now includes services information from the following sectors:</p>
+<ul>
+<li>Accounting, bookkeeping and auditing</li>
+<li>Taxation</li>
+<li>Architectural</li>
+<li>Legal services - Foreign law</li>
+<li>Legal services - Host country law</li>
+<li>Integrated Engineering</li>
+</ul>
+<p>A new version of the API is also available reflecting these changes.
+See <a href="http://ausftas.github.io/apidocs/">http://ausftas.github.io/apidocs/</a> for more details.
+We continue to encourage feedback and questions on the API service here.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>FTAs can improve market access across all areas of trade including services.
+The Portal now includes services information from the follow]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Two new agreements available]]></title>
+    <link href="https://ausftas.github.io/2017/06/27/0003_v6/"/>
+    <id>https://ausftas.github.io/2017/06/27/0003_v6/</id>
+    <published>2017-06-27T06:35:00.000Z</published>
+    <updated>2018-06-25T23:15:48.535Z</updated>
+    <content type="html"><![CDATA[<p>Two additional agreements were added to the site on 27 June 2017:</p>
+<ul>
+<li>Australia-Chile Free Trade Agreement (AClFTA)</li>
+<li>Australia-United States Free Trade Agreement (AUSFTA)</li>
+</ul>
+<p>The API has been updated accordingly. See <a href="http://ausftas.github.io/apidocs/">http://ausftas.github.io/apidocs/</a>. We continue to encourage feedback and questions on the API service here.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Two additional agreements were added to the site on 27 June 2017:</p>
+<ul>
+<li>Australia-Chile Free Trade Agreement (AClFTA)</li>
+<li>Aus]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Three new agreements now available]]></title>
+    <link href="https://ausftas.github.io/2017/04/12/0002_v5/"/>
+    <id>https://ausftas.github.io/2017/04/12/0002_v5/</id>
+    <published>2017-04-12T02:00:00.000Z</published>
+    <updated>2018-06-25T23:15:48.535Z</updated>
+    <content type="html"><![CDATA[<p>Three additional agreements were added to the site on 12 April 2017:</p>
+<ul>
+<li>ASEAN-Australia-New Zealand Free Trade Agreement (AANZFTA)</li>
+<li>Singapore-Australia Free Trade Agreement (SAFTA)</li>
+<li>Thailand-Australia Free Trade Agreement (TAFTA)</li>
+</ul>
+<p>The API has been updated accordingly. Please note that v1 API elements which
+were previously deprecated have been completely removed in this version, see
+<a href="http://ausftas.github.io/apidocs/">http://ausftas.github.io/apidocs/</a>. We continue to
+encourage feedback and questions on the API service here.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Three additional agreements were added to the site on 12 April 2017:</p>
+<ul>
+<li>ASEAN-Australia-New Zealand Free Trade Agreement (AANZF]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Malaysia and New Zealand Free Trade Agreements now available]]></title>
+    <link href="https://ausftas.github.io/2016/11/30/0001_v4/"/>
+    <id>https://ausftas.github.io/2016/11/30/0001_v4/</id>
+    <published>2016-11-30T09:46:26.000Z</published>
+    <updated>2018-06-25T23:15:48.535Z</updated>
+    <content type="html"><![CDATA[<p>As at 30 November 2016, in addition to the existing agreements with China,
+Japan and Korea, the FTA Portal now includes two additional bilateral
+free trade agreements:</p>
+<ul>
+<li>Malaysia-Australia Free Trade Agreement (MAFTA) </li>
+<li>Australia-New Zealand Closer Economic Relations Trade Agreement (ANZCERTA)</li>
+</ul>
+<p>The API has been updated accordingly. We continue to encourage feedback and
+questions on the API service <a href="https://ftaportal.dfat.gov.au/contact" target="_blank" rel="external">here</a>.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>As at 30 November 2016, in addition to the existing agreements with China,
+Japan and Korea, the FTA Portal now includes two additional bi]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Welcome]]></title>
+    <link href="https://ausftas.github.io/2016/01/15/0000welcome/"/>
+    <id>https://ausftas.github.io/2016/01/15/0000welcome/</id>
+    <published>2016-01-15T09:46:25.000Z</published>
+    <updated>2018-06-25T23:15:48.535Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to the <a href="https://ftaportal.dfat.gov.au" target="_blank" rel="external">Free Trade Agreement Portal</a> Developer Resources.</p>
+<p>The <a href="https://ftaportal.dfat.gov.au" target="_blank" rel="external">FTA Portal</a> is an
+Australian Government Department of Foreign Affairs and Trade (DFAT)
+initiative. The Portal enables users to
+explore how goods traders can benefit from Australia’s Free Trade Agreements
+with China, Japan and South Korea. A beta version of the FTA Portal
+Application Programming Interface (API) is available to provide developers
+easy access to preferential tariff and rules of origin information.
+The FTA Portal API will remain as a beta service during the expansion of the
+Portal to cover all of Australia’s existing FTAs. It will be reviewed in the
+second half of 2017.</p>
+<p>All developer resources, including updates
+associated with the FTA Portal API, will be posted here.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to the <a href="https://ftaportal.dfat.gov.au" target="_blank" rel="external">Free Trade Agreement Portal</a> Developer Resources]]>
+    </summary>
+    
+  </entry>
+  
+</feed>

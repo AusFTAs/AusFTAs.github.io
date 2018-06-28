@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  
+  <title>Application Programming Interface (API) | Free Trade Agreement Portal</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description" content="ScopeThe API service of the FTA Portal provides
+third party organisations and
+systems access to the same data and functionality that enables the website.
+The API has been made available to encourage u">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Application Programming Interface (API)">
+<meta property="og:url" content="https://ausftas.github.io/api/index.html">
+<meta property="og:site_name" content="Free Trade Agreement Portal">
+<meta property="og:description" content="ScopeThe API service of the FTA Portal provides
+third party organisations and
+systems access to the same data and functionality that enables the website.
+The API has been made available to encourage u">
+<meta property="og:updated_time" content="2018-06-27T06:09:59.129Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Application Programming Interface (API)">
+<meta name="twitter:description" content="ScopeThe API service of the FTA Portal provides
+third party organisations and
+systems access to the same data and functionality that enables the website.
+The API has been made available to encourage u">
+  
+    <link rel="alternate" href="/atom.xml" title="Free Trade Agreement Portal" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="/css/style.css" type="text/css">
+  
+
+  
+</head>
+
+
+
+<body>
+  <div id="container">
+    <div id="wrap">
+      <div class="header-strap">
+  <div class="header-content">
+    <a href="https://ftaportal.dfat.gov.au">
+    <img src="/css/images/index.png" alt="australian government">
+    <div class="brand">Free Trade Agreement Portal</div>
+    </a>
+  </div>
+</div>
+<div class="header-divider-strap"></div>
+
+<header id="header">
+  <div id="header-outer" class="outer">
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
+        
+          <a class="main-nav-link" href="/api">API</a>
+        
+          <a class="main-nav-link" href="/apidocs">API Documentation</a>
+        
+          <a class="main-nav-link" href="/">Blog</a>
+        
+          <a class="main-nav-link" href="/oss">Open Source Software</a>
+        
+      </nav>
+      <nav id="sub-nav">
+        
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
+        
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" results="0" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="https://ausftas.github.io"></form>
+      </div>
+    </div>
+  </div>
+</header>
+
+      <div class="outer">
+        <section id="main" style="width: 73%;">
+
+
+
+<article id="page-undefined" class="article article-type-page" itemscope itemprop="blogPost">
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1>
+      Application Programming Interface (API)
+    </h1>
+  
+
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h2 id="Scope"><a href="#Scope" class="headerlink" title="Scope"></a>Scope</h2><p>The API service of the <a href="https://ftaportal.dfat.gov.au/" target="_blank" rel="external">FTA Portal</a> provides
+third party organisations and
+systems access to the same data and functionality that enables the website.
+The API has been made available to encourage users to find new ways to use,
+display and share preferential tariff and rules of origin data relating to
+Australia’s free trade agreements.</p>
+<h2 id="Access_2C_Usage_2C_Performance_and_Availability"><a href="#Access_2C_Usage_2C_Performance_and_Availability" class="headerlink" title="Access, Usage, Performance and Availability"></a>Access, Usage, Performance and Availability</h2><p>The API currently supports unlimited anonymous usage. It also includes
+mechanisms (e.g. data versioning) to allow user side caching and re-use of
+data if additional performance is needed.</p>
+<p>The API usage and performance is being monitored closely and unlimited
+anonymous usage may change in the future, if necessary, such as owing to
+the misuse of data. Future versions of the API may require authentication
+and/or apply rate limits.</p>
+<p>We aim to provide 99.95% service availability.</p>
+<h2 id="Future_Changes"><a href="#Future_Changes" class="headerlink" title="Future Changes"></a>Future Changes</h2><p>Future changes to the API will be announced on the <a href="/">blog</a>.</p>
+<p>Older versions of the API will be supported for a minimum period of three
+months. The results returned from any API calls will also include a
+deprecation message in this period with specific details.</p>
+<h2 id="API_Documentation"><a href="#API_Documentation" class="headerlink" title="API Documentation"></a>API Documentation</h2><p>The following documentation is provided for developers.</p>
+<ul>
+<li><a href="//ausftas.github.io/apidocs">Interactive API Documentation</a></li>
+</ul>
+<h2 id="Examples"><a href="#Examples" class="headerlink" title="Examples"></a>Examples</h2><p>The DFAT FTA Portal website is built entirely using this API.
+The following examples and associated modules, released under the
+<a href="https://opensource.org/licenses/MIT" target="_blank" rel="external">MIT license</a>, are provided as a
+demonstration of how to use the API.</p>
+<ul>
+<li><p><a href="//github.com/AusFTAs/example-api-search/">Products Search</a> -
+Example of how to search for keywords or HS codes and return relevant HS product
+categories.</p>
+</li>
+<li><p><a href="//github.com/AusFTAs/example-api-hierarchy/">Products Hierarchy Browser</a> -
+Example of how to use and implement a hierarchy view of tariff schedule HS code categories to the four-digit level.</p>
+</li>
+<li><p><a href="//github.com/AusFTAs/example-api-tariffs/">Products Data Viewer</a> -
+Example of how to show all data associated with a given tariff line including
+tariff rates, tariff quota, tariff safeguard, seasonality and product specific
+rule, as appropriate.</p>
+</li>
+<li><p><a href="//github.com/AusFTAs/example-api-roo/">Products Rules Of Origin</a> -
+Example of how to build a Rules of Origin guidance questionnaire for
+a given tariff line.</p>
+</li>
+<li><p><a href="//github.com/AusFTAs/example-api-services-hierarchy/">Services Hierarchy Browser</a> -
+Example of how to use and implement a hierarchy view of service schedule categories.</p>
+</li>
+<li><p><a href="//github.com/AusFTAs/example-api-services-data/">Services Data Viewer</a> -
+Example of how to show all data associated with a given service sector.</p>
+</li>
+</ul>
+<h2 id="Feedback_and_Support"><a href="#Feedback_and_Support" class="headerlink" title="Feedback and Support"></a>Feedback and Support</h2><p>We welcome feedback on your experience with using the FTA Portal API including
+suggestions to improve the service and requests to address errors or other
+problems.</p>
+<p>Post your feedback and questions of the API service
+<a href="//github.com/AusFTAs/AusFTAs.github.io/issues">here</a>.</p>
+<p>For feedback on the FTA Portal, please email
+<a href="mailto:FTAportalfeedback@dfat.gov.au" target="_blank" rel="external">FTAportalfeedback@dfat.gov.au</a>.</p>
+<h2 id="Disclaimer"><a href="#Disclaimer" class="headerlink" title="Disclaimer"></a>Disclaimer</h2><p>The FTA Portal and API service is presented by the Department of Foreign Affairs
+and Trade (DFAT) for the purpose of disseminating information free of
+charge for the benefit of the public.  This material and the subject matter
+covered in relation to relevant Free Trade Agreements are general in nature.
+DFAT does not guarantee, and accepts no legal liability whatsoever arising
+from or connected to, the accuracy, reliability, currency or completeness of
+any material contained on this website or on any linked site.
+For more information, read the full
+<a href="https://ftaportal.dfat.gov.au/disclaimer" target="_blank" rel="external">Disclaimer</a>.</p>
+<p>Additionally, users should note that the API is subject to change over time
+and the user is responsible for ensuring they are accessing the latest
+version. For example, HS codes are updated periodically. Updates will
+be communicated through the blog.</p>
+<p>Please see <a href="/api/license">FTA Portal Application Programming Interfaces - Policy on use and dissemination</a> for further information.</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a href="/api/index.html" class="article-date">
+  <time datetime="2016-01-15T03:44:40.000Z" itemprop="datePublished">2016-01-15</time>
+</a>
+      <!-- <span class="article-date" > | &copy; 2018 Department of Foreign Affairs and Trade</span> -->
+      <a data-url="https://ausftas.github.io/api/index.html" data-id="cjiwc8qn10006tvkrnlpzm2pl" class="article-share-link">Share</a>
+      
+      
+    </footer>
+  </div>
+  
+    
+  
+</article>
+
+
+</section>
+        
+          <aside id="sidebar">
+  <div style="text-align: center;">
+  <br />
+  <br />
+  <a href="http://dfat.gov.au/trade/agreements/Pages/trade-agreements.aspx" target="_blank">
+  <img src="/css/images/aus.png" style="max-width: 165px;" />
+  </a>
+  </div>
+  <!--
+  <br />
+  <div class="widget" style="text-align: center; ">
+    <a href="https://ftaportal.dfat.gov.au/" target="_blank">
+      DFAT FTA Portal
+    </a>
+  </div>
+
+
+  
+    
+
+  
+    
+
+  
+    
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/06/">June 2018</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2018/04/">April 2018</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/06/">June 2017</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2017/04/">April 2017</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/11/">November 2016</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2016/01/">January 2016</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recents</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2018/06/28/0005_v9/">More services sectors available</a>
+          </li>
+        
+          <li>
+            <a href="/2018/04/22/0004_v8/">Services information now available</a>
+          </li>
+        
+          <li>
+            <a href="/2017/06/27/0003_v6/">Two new agreements available</a>
+          </li>
+        
+          <li>
+            <a href="/2017/04/12/0002_v5/">Three new agreements now available</a>
+          </li>
+        
+          <li>
+            <a href="/2016/11/30/0001_v4/">Malaysia and New Zealand Free Trade Agreements now available</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+  -->
+</aside>
+
+        
+      </div>
+      <div class="footer-strap">
+  <div class="footer-content">
+    <ul class="footer-links">
+      <li><a href="https://ftaportal.dfat.gov.au">DFAT FTA Portal</a> | </li>
+      <li><a href="http://dfat.gov.au/trade/agreements/Pages/trade-agreements.aspx">DFAT Free Trade Agreements</a> | </li>
+      <li><a href="http://www.data61.csiro.au/">Data61 - CSIRO</a></li>
+    </ul>
+  </div>
+</div>
+<div style="text-align: center; color: #666;">
+Powered by <a style="color: #666;" href="http://hexo.io/" target="_blank">Hexo</a>.
+</div>
+
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/api" class="mobile-nav-link">API</a>
+  
+    <a href="/apidocs" class="mobile-nav-link">API Documentation</a>
+  
+    <a href="/" class="mobile-nav-link">Blog</a>
+  
+    <a href="/oss" class="mobile-nav-link">Open Source Software</a>
+  
+</nav>
+    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  <link rel="stylesheet" href="/fancybox/jquery.fancybox.css" type="text/css">
+  <script src="/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script>
+
+
+<script src="/js/script.js" type="text/javascript"></script>
+
+  </div>
+</body>
+</html>
